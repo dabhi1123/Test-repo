@@ -15,8 +15,6 @@
     "chartjs-plugin-datalabels": "^2.0.0",
     "diffhtml": "^1.0.0-beta.20",
     "magnific-popup": "1.1.0",
-    "moment": "2.29.4",
-    "moment-timezone": "0.5.39",
     "pikaday": "1.8.2",
     "squoosh": "discourse/squoosh#dc9649d",
     "workbox-cacheable-response": "^4.3.1",
